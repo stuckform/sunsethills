@@ -40,24 +40,3 @@ document.getElementById("num5").value = "";
 
 
 
-
-// // sunset function
-// function Sunset(buildings) {
-  
-//   // first building can see the sunset
-//   let results = ['See']
-//   for (let i = 1; i < buildings.length, i++) {
-//     let bigger = false;
-
-//     for (let s = 0; s < i; s++){
-     
-//       if (buildings[s]) >= buildings[i]) {
-        
-//         bigger = true;
-//         break;
-//       } else {
-//         continue
-//       };
-//     }
-//   }
-// }
